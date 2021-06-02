@@ -1,6 +1,5 @@
 namespace Child
 {
-
     public enum Genero 
     {
         Acao = 1,

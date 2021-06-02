@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\Infortread\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\ChildMovie\\Child\\Child.csproj",
+      "projectUniqueName": "C:\\Users\\Infortread\\Documents\\ChildMovie\\ChildMovie\\Child\\Child.csproj",
       "projectName": "Child",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\ChildMovie\\Child\\Child.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\ChildMovie\\Child\\obj\\",
+      "projectPath": "C:\\Users\\Infortread\\Documents\\ChildMovie\\ChildMovie\\Child\\Child.csproj",
+      "packagesPath": "C:\\Users\\Infortread\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Infortread\\Documents\\ChildMovie\\ChildMovie\\Child\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Infortread\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

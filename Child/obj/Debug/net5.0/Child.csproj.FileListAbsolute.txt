@@ -1,0 +1,16 @@
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\Child.exe
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\Child.deps.json
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\Child.runtimeconfig.json
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\Child.runtimeconfig.dev.json
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\Child.dll
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\ref\Child.dll
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\bin\Debug\net5.0\Child.pdb
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.csproj.AssemblyReference.cache
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.AssemblyInfoInputs.cache
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.AssemblyInfo.cs
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.csproj.CoreCompileInputs.cache
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.dll
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\ref\Child.dll
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.pdb
+C:\Users\Infortread\Documents\ChildMovie\ChildMovie\Child\obj\Debug\net5.0\Child.genruntimeconfig.cache
